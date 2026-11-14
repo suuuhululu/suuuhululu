@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/suuuhululu/isaac_ros2_waste_net_cutting"><img src="assets/netclean.gif" width="100%" alt="NetClean"></a>
+      <a href="https://github.com/suuuhululu/isaac_ros2_waste_net_cutting"><img src="assets/sim-netclean.gif" width="100%" alt="NetClean"></a>
       <h3>NetClean</h3>
       Isaac Sim 디지털 트윈에서 로봇 2대가 폐어망을 자르고 이물질을 흡착해 떼어내는 공정<br><br>
       <b>역할</b> 팀장 · 비전 파이프라인<br>
@@ -26,7 +26,7 @@
       <sub>ROS 2 · Isaac Sim 5.1 · YOLO11 · Doosan M0609 ×2</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/suuuhululu/co-human-robot-LEGO-assembly"><img src="assets/coassembly.gif" width="100%" alt="Adaptive Co-Assembly"></a>
+      <a href="https://github.com/suuuhululu/co-human-robot-LEGO-assembly"><img src="assets/sim-coassembly.gif" width="100%" alt="Adaptive Co-Assembly"></a>
       <h3>Adaptive Co-Assembly</h3>
       대화로 블록 의자를 설계하고, 사람과 협동로봇이 함께 조립하는 시스템<br><br>
       <b>역할</b> 팀장 · 로봇 제어 · HMI · DB · 웹 · 통합<br>
@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/suuuhululu/robotic-curved-surface-carving"><img src="assets/saegim.gif" width="100%" alt="새김"></a>
+      <a href="https://github.com/suuuhululu/robotic-curved-surface-carving"><img src="assets/sim-saegim.gif" width="100%" alt="새김"></a>
       <h3>새김 (Saegim)</h3>
       이미지 한 장을 실측한 원통 곡면의 조각 경로로 바꿔 양초에 새기는 음각 조각 자동화<br><br>
       <b>역할</b> 팀장 · HMI · FastAPI · ROS 게이트웨이<br>
@@ -44,7 +44,7 @@
       <sub>ROS 2 · Doosan M0609 · FastAPI · React · SQLite</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/suuuhululu/AMR-patrol-system"><img src="assets/amr.gif" width="100%" alt="기똥차 AMR 순찰 시스템"></a>
+      <a href="https://github.com/suuuhululu/AMR-patrol-system"><img src="assets/sim-amr.gif" width="100%" alt="기똥차 AMR 순찰 시스템"></a>
       <h3>기똥차 · AMR Patrol</h3>
       TurtleBot 4 두 대가 교대로 지하주차장을 순찰하며 화재 · 누수 · 적치물을 찾는 시스템<br><br>
       <b>역할</b> PM (8인 팀)<br>
