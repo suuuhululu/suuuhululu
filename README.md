@@ -6,8 +6,22 @@
 비전 인식부터 로봇 동작, 운영 화면과 기록까지 한 흐름으로 연결하고, 결과는 테스트와 실측 수치로 확인합니다.
 
 <p>
-  <a href="mailto:acbal0012@gmail.com"><img src="https://img.shields.io/badge/Email-acbal0012%40gmail.com-111111?style=flat-square&labelColor=111111" alt="Email"></a>
+  <a href="mailto:suuuhululu@gmail.com"><img src="https://img.shields.io/badge/Email-suuuhululu%40gmail.com-111111?style=flat-square&labelColor=111111" alt="Email"></a>
   <a href="https://blog.naver.com/moltingdown"><img src="https://img.shields.io/badge/Blog-blog.naver.com%2Fmoltingdown-111111?style=flat-square&labelColor=111111" alt="Blog"></a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/YOLO11-111F68?style=flat-square&logo=yolo&logoColor=white" alt="YOLO11">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Isaac Sim">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PyQt5">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 </p>
 
 ## Projects
