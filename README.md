@@ -10,14 +10,10 @@
   <a href="https://blog.naver.com/moltingdown"><img src="https://img.shields.io/badge/Blog-blog.naver.com%2Fmoltingdown-111111?style=flat-square&labelColor=111111" alt="Blog"></a>
 </p>
 
-<br>
+## Projects
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg">
-  <img src="assets/projects-light.svg" width="100%" alt="Projects: NetClean, Adaptive Co-Assembly, 새김, AMR Patrol">
-</picture>
-
-두산 로보틱스 ROKEY Boot Camp 9기에서 팀장 · PM으로 진행한 네 프로젝트입니다. 이미지를 누르면 저장소로 이동합니다.
+두산 로보틱스 ROKEY Boot Camp 9기에서 팀장 · PM으로 진행한 네 프로젝트입니다.
+카드의 애니메이션은 공정을 설명하려고 재구성한 시뮬레이션이며, 실제 시연 영상과 결과는 이미지를 누르면 열리는 저장소에 있습니다.
 
 <table>
   <tr>
@@ -26,7 +22,6 @@
       <h3>NetClean</h3>
       Isaac Sim 디지털 트윈에서 로봇 2대가 폐어망을 자르고 이물질을 흡착해 떼어내는 공정<br><br>
       <b>역할</b> 팀장 · 비전 파이프라인<br>
-      합성 데이터 생성 → YOLO11 학습 → RGB-D 3D 좌표 → 로봇 액션 연동<br><br>
       <b>결과</b> 절단 36/36 · 제거 18/18 · mAP50-95 0.994<br>
       <sub>ROS 2 · Isaac Sim 5.1 · YOLO11 · Doosan M0609 ×2</sub>
     </td>
@@ -35,7 +30,6 @@
       <h3>Adaptive Co-Assembly</h3>
       대화로 블록 의자를 설계하고, 사람과 협동로봇이 함께 조립하는 시스템<br><br>
       <b>역할</b> 팀장 · 로봇 제어 · HMI · DB · 웹 · 통합<br>
-      공급판 비전 파지, 영상 기반 방향 보정, 반력 정지 결착, 작업 이력 웹 아카이브<br><br>
       <b>결과</b> 방향 오차 −1.93° → −0.16° · 통합 검사 279개 통과<br>
       <sub>ROS 2 · Doosan M0609 + RG2 · RealSense · PostgreSQL · PyQt5</sub>
     </td>
@@ -46,7 +40,6 @@
       <h3>새김 (Saegim)</h3>
       이미지 한 장을 실측한 원통 곡면의 조각 경로로 바꿔 양초에 새기는 음각 조각 자동화<br><br>
       <b>역할</b> 팀장 · HMI · FastAPI · ROS 게이트웨이<br>
-      운영 화면, 실시간 공정 상태, 측정 · 경로 · 결과의 ID/해시 추적<br><br>
       <b>결과</b> 실물 전 과정 6회 완료 · 반복 측정 표준편차 52 µm 이하<br>
       <sub>ROS 2 · Doosan M0609 · FastAPI · React · SQLite</sub>
     </td>
@@ -55,7 +48,6 @@
       <h3>기똥차 · AMR Patrol</h3>
       TurtleBot 4 두 대가 교대로 지하주차장을 순찰하며 화재 · 누수 · 적치물을 찾는 시스템<br><br>
       <b>역할</b> PM (8인 팀)<br>
-      초기 설계 문서와 설계 기준선, 변경 요청 절차, Git 협업 규칙, ROS 2 워크스페이스 구성<br><br>
       <b>결과</b> 4개 파트 통합 · 테스트 274개 통과<br>
       <sub>ROS 2 · TurtleBot 4 · Nav2 · YOLO11 · Flask</sub>
     </td>
