@@ -6,6 +6,8 @@
 비전 인식부터 로봇 동작, 운영 화면과 기록까지 한 흐름으로 연결하고, 결과는 테스트와 실측 수치로 확인합니다.
 
 <p>
+  <a href="https://suuuhululu.github.io/"><img src="https://img.shields.io/badge/Portfolio-suuuhululu.github.io-111111?style=flat-square&labelColor=111111" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/suuuhululu/"><img src="https://img.shields.io/badge/LinkedIn-in%2Fsuuuhululu-111111?style=flat-square&labelColor=111111" alt="LinkedIn"></a>
   <a href="mailto:suuuhululu@gmail.com"><img src="https://img.shields.io/badge/Email-suuuhululu%40gmail.com-111111?style=flat-square&labelColor=111111" alt="Email"></a>
   <a href="https://blog.naver.com/moltingdown"><img src="https://img.shields.io/badge/Blog-blog.naver.com%2Fmoltingdown-111111?style=flat-square&labelColor=111111" alt="Blog"></a>
 </p>
@@ -27,7 +29,7 @@
 ## Projects
 
 두산 로보틱스 ROKEY Boot Camp 9기에서 팀장 · PM으로 진행한 네 프로젝트입니다.
-카드의 애니메이션은 공정을 설명하려고 재구성한 시뮬레이션이며, 실제 시연 영상과 결과는 이미지를 누르면 열리는 저장소에 있습니다.
+카드의 애니메이션은 공정을 설명하려고 재구성한 시뮬레이션이며, [포트폴리오](https://suuuhululu.github.io/)에서 직접 돌려 볼 수 있습니다. 실제 시연 영상과 결과는 이미지를 누르면 열리는 저장소에 있습니다.
 
 <table>
   <tr>
