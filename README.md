@@ -5,6 +5,8 @@
 **카메라로 보고 · 직접 재고 · 로봇으로 움직이는 시스템**을 만듭니다.
 비전 인식부터 로봇 동작, 운영 화면과 기록까지 한 흐름으로 연결하고, 결과는 테스트와 실측 수치로 확인합니다.
 
+**제24회 임베디드SW경진대회 대상**(산업통상부 장관상, 2026.11) · Team Ro92n, [HOOD&SEEK](#other-project)
+
 <p>
   <a href="https://suuuhululu.github.io/"><img src="https://img.shields.io/badge/Portfolio-suuuhululu.github.io-111111?style=flat-square&labelColor=111111" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/suuuhululu/"><img src="https://img.shields.io/badge/LinkedIn-in%2Fsuuuhululu-111111?style=flat-square&labelColor=111111" alt="LinkedIn"></a>
@@ -69,6 +71,11 @@
     </td>
   </tr>
 </table>
+
+## Other project
+
+**[HOOD&SEEK](https://github.com/lambdaramji/2026ESWContest_smart_Ro92n)** · 제24회 임베디드SW경진대회 대상(산업통상부 장관상) · 5인 팀 Ro92n, 스마트 가전 부문  
+인덕션과 후드를 하나의 주방 안전 시스템으로 묶은 온디바이스 임베디드 작품입니다. 음성 노드(C++, SenseVoice 음성 인식, 명령 파서, TCP 송신)와 안내 음성, 시연 영상을 맡았습니다.
 
 ## What I do
 
